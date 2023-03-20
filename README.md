@@ -11,18 +11,6 @@
 
 ### 자료형
 
-#### [1. 숫자 NUMBERS](https://github.com/sam98528/CodingTest/blob/master/DataType/number.py)
-
-#### [2. 리스트 LIST](https://github.com/sam98528/CodingTest/blob/master/DataType/list.py)
-
-#### [3. 문자열 STRING](https://github.com/sam98528/CodingTest/blob/master/DataType/string.py)
-
-#### [4. 튜플 TUPLE](https://github.com/sam98528/CodingTest/blob/master/DataType/tuple.py)
-
-#### [5. 사전 DICTIONARY](https://github.com/sam98528/CodingTest/blob/master/DataType/dictionary.py)
-
-#### [6. 집합 SET](https://github.com/sam98528/CodingTest/blob/master/DataType/set.py)
-
 | 자료형          | 링크                                                                              |
 | --------------- | --------------------------------------------------------------------------------- |
 | 숫자 NUMBERS    | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/number.py)     |

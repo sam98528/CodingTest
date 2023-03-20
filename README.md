@@ -11,6 +11,7 @@
 
 ### 자료형
 
+<<<<<<< HEAD
 | 자료형          | 링크                                                                              |
 | --------------- | --------------------------------------------------------------------------------- |
 | 숫자 NUMBERS    | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/number.py)     |
@@ -19,3 +20,22 @@
 | 튜플 TUPLE      | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/tuple.py)      |
 | 사전 DICTIONARY | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/dictionary.py) |
 | 집합 SET        | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/set.py)        |
+=======
+#### [1. 숫자 NUMBERS](https://github.com/sam98528/CodingTest/blob/master/DataType/number.py)
+
+#### [2. 리스트 LIST](https://github.com/sam98528/CodingTest/blob/master/DataType/list.py)
+
+#### [3. 문자열 STRING](https://github.com/sam98528/CodingTest/blob/master/DataType/string.py)
+
+#### [4. 튜플 TUPLE](https://github.com/sam98528/CodingTest/blob/master/DataType/tuple.py)
+
+#### [5. 사전 DICTIONARY](https://github.com/sam98528/CodingTest/blob/master/DataType/dictionary.py)
+
+#### [6. 집합 SET](https://github.com/sam98528/CodingTest/blob/master/DataType/set.py)
+
+|제목|내용|설명|
+|------|---|---|
+|#### [1. 숫자 NUMBERS](https://github.com/sam98528/CodingTest/blob/master/DataType/number.py)|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+>>>>>>> 02aba8ca94ee3d3ae44e94bfdf5bffce53cbc9ff

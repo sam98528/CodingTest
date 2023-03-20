@@ -22,3 +22,12 @@
 #### [5. 사전 DICTIONARY](https://github.com/sam98528/CodingTest/blob/master/DataType/dictionary.py)
 
 #### [6. 집합 SET](https://github.com/sam98528/CodingTest/blob/master/DataType/set.py)
+
+| 자료형          | 링크                                                                              |
+| --------------- | --------------------------------------------------------------------------------- |
+| 숫자 NUMBERS    | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/number.py)     |
+| 리스트 LIST     | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/list.py)       |
+| 문자열 STRING   | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/string.py)     |
+| 튜플 TUPLE      | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/tuple.py)      |
+| 사전 DICTIONARY | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/dictionary.py) |
+| 집합 SET        | [LINK](https://github.com/sam98528/CodingTest/blob/master/DataType/set.py)        |

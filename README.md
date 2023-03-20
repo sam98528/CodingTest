@@ -22,3 +22,9 @@
 #### [5. 사전 DICTIONARY](https://github.com/sam98528/CodingTest/blob/master/DataType/dictionary.py)
 
 #### [6. 집합 SET](https://github.com/sam98528/CodingTest/blob/master/DataType/set.py)
+
+|제목|내용|설명|
+|------|---|---|
+|#### [1. 숫자 NUMBERS](https://github.com/sam98528/CodingTest/blob/master/DataType/number.py)|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
